@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.5](https://github.com/tsdevau/urban-twilight-teal-theme/compare/urban-twilight-teal-theme-v0.1.4...urban-twilight-teal-theme-v0.1.5) (2024-11-27)
+
+
+### UX Improvements
+
+* **theme:** add sidebar border colour in teal ([a860d00](https://github.com/tsdevau/urban-twilight-teal-theme/commit/a860d0084f9a8e7cf14e4062255b59d3d7bd0d22))
+
 ## [0.1.4](https://github.com/tsdevau/urban-twilight-teal-theme/compare/urban-twilight-teal-theme-v0.1.3...urban-twilight-teal-theme-v0.1.4) (2024-11-27)
 
 
