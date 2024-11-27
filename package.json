@@ -1,25 +1,25 @@
 {
-  "name": "tokyo-night-tsdevau-color-theme",
-  "displayName": "tsdevau Tokyo Night Themes",
-  "version": "1.0.0",
-  "description": "A clean VS Code theme based on Tokyo Night themes with some tweaks for contrast & syntax highlighting.",
+  "name": "urban-twilight-teal-theme",
+  "displayName": "Urban Twilight Teal Theme",
+  "version": "0.1.2",
+  "description": "A modern VS Code theme inspired by Tokyo Night, featuring teal accents, balanced contrast for all-day usability, and vibrant syntax highlighting.",
   "categories": [
     "Themes"
   ],
   "keywords": [
+    "urban twilight",
+    "vscode theme",
     "tokyo night",
-    "tokyonight",
-    "dark",
-    "constrast",
-    "clean"
+    "dark theme",
+    "all day contrast"
   ],
-  "homepage": "https://github.com/tsdevau/vscode-theme--tokyo-night-tpstech",
+  "homepage": "https://github.com/tsdevau/urban-twilight-teal-theme",
   "bugs": {
-    "url": "https://github.com/tsdevau/vscode-theme--tokyo-night-tpstech/issues"
+    "url": "https://github.com/tsdevau/urban-twilight-teal-theme/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tsdevau/vscode-theme--tokyo-night-tpstech"
+    "url": "https://github.com/tsdevau/urban-twilight-teal-theme"
   },
   "license": "MIT",
   "author": {
@@ -34,26 +34,16 @@
   "contributes": {
     "themes": [
       {
-        "label": "Tokyo Night tsdevau Storm",
+        "label": "Urban Twilight Teal",
         "uiTheme": "vs-dark",
-        "path": "./themes/tokyo-night-tsdevau-storm-color-theme.json"
-      },
-      {
-        "label": "Tokyo Night tsdevau Inspired Teal",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tokyo-night-tsdevau-teal-color-theme.json"
-      },
-      {
-        "label": "Tokyo Night tsdevau Test",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tokyo-night-tsdevau-test-color-theme.json"
+        "path": "./themes/urban-twilight-teal-theme.json"
       }
     ]
   },
   "devDependencies": {
-    "eslint": "~8.56.0",
-    "prettier": "~3.1.1",
-    "prettier-plugin-packagejson": "2.4.9"
+    "eslint": "~9.15.0",
+    "prettier": "~3.4.1",
+    "prettier-plugin-packagejson": "2.5.6"
   },
   "engines": {
     "vscode": "^1.67.0"
@@ -63,7 +53,5 @@
     "color": "#303030",
     "theme": "dark"
   },
-  "__metadata": {
-    "installedTimestamp": 1683853169058
-  }
+  "pricing": "Free"
 }
