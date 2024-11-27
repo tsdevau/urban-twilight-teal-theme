@@ -1,8 +1,0 @@
-{
-  "plugins": [
-    "/Users/tpstech/code//vscode-themes/vscode-theme--tokyo-night-tpstech/node_modules/prettier-plugin-packagejson/lib/index.js"
-  ],
-  "printWidth": 120,
-  "semi": false,
-  "singleAttributePerLine": true
-}
