@@ -26,7 +26,7 @@
     "name": "tsdevau",
     "email": "github@tsdev.au"
   },
-  "publisher": "tsdevau",
+  "publisher": "tpsTech",
   "scripts": {
     "package": "vsce package",
     "publish": "vsce publish"
