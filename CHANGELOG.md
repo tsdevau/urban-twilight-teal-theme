@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.4](https://github.com/tsdevau/urban-twilight-teal-theme/compare/urban-twilight-teal-theme-v0.1.3...urban-twilight-teal-theme-v0.1.4) (2024-11-27)
+
+
+### DX Maintenance & Configuration
+
+* **deps:** add package-lock.json ([3a9eb46](https://github.com/tsdevau/urban-twilight-teal-theme/commit/3a9eb46850104f04e1fc845454e342cc1de59ed2))
+
 ## [0.1.3](https://github.com/tsdevau/urban-twilight-teal-theme/compare/urban-twilight-teal-theme-v0.1.2...urban-twilight-teal-theme-v0.1.3) (2024-11-27)
 
 
