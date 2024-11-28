@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.8](https://github.com/tsdevau/urban-twilight-teal-theme/compare/urban-twilight-teal-theme-v0.1.7...urban-twilight-teal-theme-v0.1.8) (2024-11-28)
+
+
+### Bug Fixes
+
+* **config:** fix theme path in release-please config ([fd82136](https://github.com/tsdevau/urban-twilight-teal-theme/commit/fd8213641be615c8b5056d776bafa98b64a3b6c7))
+* **release-please:** correct jsonpath syntax for version field ([22647a1](https://github.com/tsdevau/urban-twilight-teal-theme/commit/22647a1e23ceab781f42ee30f5e3e619270df163))
+
+
+### UX Improvements
+
+* **theme:** adjust diff editor background opacity for better contrast ([422f1d4](https://github.com/tsdevau/urban-twilight-teal-theme/commit/422f1d4f8da826d58889090cf65037b57707a973))
+* **theme:** change sidebar border colour from teal to zinc ([fa566cb](https://github.com/tsdevau/urban-twilight-teal-theme/commit/fa566cbc101e9b7b21d6ec63646820ebbcfe4cf1))
+
+
+### DX Maintenance & Configuration
+
+* **config:** remove version tracking from theme file ([0233309](https://github.com/tsdevau/urban-twilight-teal-theme/commit/0233309ab57511411d54452381c42b7d698e7b15))
+* **release:** configure theme version tracking in release-please ([1287b86](https://github.com/tsdevau/urban-twilight-teal-theme/commit/1287b866e82e8d4c7c7a958a96b0529f853190fd))
+* **release:** reorder release-please config fields for theme version tracking ([4039d44](https://github.com/tsdevau/urban-twilight-teal-theme/commit/4039d44e7b0ddda9e8bfb83e2967d9d3e17e04ab))
+* **theme:** update version to 0.1.7 ([0f92bbe](https://github.com/tsdevau/urban-twilight-teal-theme/commit/0f92bbeac4b7b8cea59288f6cab2463de33902d1))
+
 ## [0.1.7](https://github.com/tsdevau/urban-twilight-teal-theme/compare/urban-twilight-teal-theme-v0.1.6...urban-twilight-teal-theme-v0.1.7) (2024-11-28)
 
 
