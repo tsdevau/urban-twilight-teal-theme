@@ -24,7 +24,7 @@
       "bump-minor-pre-major": true,
       "extra-files": [
         {
-          "path": "./themes/urban-twilight-teal-theme.json",
+          "path": "themes/urban-twilight-teal-theme.json",
           "jsonpath": "$.version",
           "type": "json"
         }
