@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.6](https://github.com/tsdevau/urban-twilight-teal-theme/compare/urban-twilight-teal-theme-v0.1.5...urban-twilight-teal-theme-v0.1.6) (2024-11-28)
+
+
+### Features, Additions & Updates
+
+* **theme:** reorganise token colours alphabetically ([ce9f47e](https://github.com/tsdevau/urban-twilight-teal-theme/commit/ce9f47e45ecf38821b639e25bde2d0612e9d7fbe))
+
+
+### UX Improvements
+
+* **theme:** reorganise colour tokens and remove redundant comments ([00a89b1](https://github.com/tsdevau/urban-twilight-teal-theme/commit/00a89b13167e3a7430a3294829e2ba836f24d6d7))
+
 ## [0.1.5](https://github.com/tsdevau/urban-twilight-teal-theme/compare/urban-twilight-teal-theme-v0.1.4...urban-twilight-teal-theme-v0.1.5) (2024-11-27)
 
 
