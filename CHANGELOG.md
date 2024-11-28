@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.7](https://github.com/tsdevau/urban-twilight-teal-theme/compare/urban-twilight-teal-theme-v0.1.6...urban-twilight-teal-theme-v0.1.7) (2024-11-28)
+
+
+### DX Continuous Integrations
+
+* **publish:** add Open VSX Registry publishing to workflow ([13e190c](https://github.com/tsdevau/urban-twilight-teal-theme/commit/13e190c344d33e7864ff1931162002e7682e527a))
+
 ## [0.1.6](https://github.com/tsdevau/urban-twilight-teal-theme/compare/urban-twilight-teal-theme-v0.1.5...urban-twilight-teal-theme-v0.1.6) (2024-11-28)
 
 
