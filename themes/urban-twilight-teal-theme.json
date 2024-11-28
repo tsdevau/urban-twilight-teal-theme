@@ -2,7 +2,6 @@
   "$schema": "vscode://schemas/color-theme",
   "name": "Urban Twilight Teal Theme",
   "description": "A modern VS Code theme inspired by Tokyo Night, featuring teal accents, balanced contrast for all-day usability, and vibrant syntax highlighting.",
-  "version": "0.1.7",
   "publisher": "tpsTech",
   "author": "tsdevau",
   "maintainers": ["tsdevau <github@tsdev.au>"],
