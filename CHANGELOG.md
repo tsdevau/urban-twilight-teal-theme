@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.9](https://github.com/tsdevau/urban-twilight-teal-theme/compare/urban-twilight-teal-theme-v0.1.8...urban-twilight-teal-theme-v0.1.9) (2025-03-30)
+
+
+### UX Improvements
+
+* **theme:** optimise comment token styling and fix block scope array syntax ([cf9f62c](https://github.com/tsdevau/urban-twilight-teal-theme/commit/cf9f62ca912b4b18ec8119e47238f9b35f1972a9))
+
 ## [0.1.8](https://github.com/tsdevau/urban-twilight-teal-theme/compare/urban-twilight-teal-theme-v0.1.7...urban-twilight-teal-theme-v0.1.8) (2024-11-28)
 
 
